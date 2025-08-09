@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 43 AM" src="https://github.com/user-attachments/assets/e4a0f0d8-bdc4-4f87-a9c7-b5abd9a3cca7" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # ZenTask 🎯
@@ -21,8 +21,6 @@ For Software:
 - Tailwind CSS, tailwindcss-animate
 - TypeScript ESLint
 
-### Implementation
-For Software:
 # Installation
 npm i
 
@@ -33,52 +31,24 @@ npm run dev
 For Software:   A beautifully crafted productivity app that's professionally designed to make you completely unproductive. Watch checkboxes run away from your cursor and tasks                  self-destruct after one hour. It's like productivity, but in reverse—and somehow more satisfying.
 
 # Screenshots (Add at least 3)
+<img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 25 21 AM" src="https://github.com/user-attachments/assets/1abec27f-5b04-4ba1-92b2-615c3c8e9b58" />
+*this is the home screen where we can use the bar to add tasks, and a small refernece of what happens to the tasks added there*
 
-*Add caption explaining what this shows*
+<img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 20 AM" src="https://github.com/user-attachments/assets/3b834538-12df-46d1-8070-b419e8474786" />
+*while trying to check a task that's done, the task moves around never lettting the user finish it*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 43 AM" src="https://github.com/user-attachments/assets/08561f33-0ee6-4b47-81a4-5374e042f353" />
+*when the timer reaches the last 5 min an allert banner occurs below the task*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 28 27 AM" src="https://github.com/user-attachments/assets/571c6697-f6d0-417a-89b4-5f6705fad8c1" />
+*at the end of the timer, the task just fades into oblivion*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1BRC_BepGvR4J-YqgiVjRKwY0emDK-xuD?usp=share_link
+*the drive link consist of 2 videos where the whole working of the project is demonstrated*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
