@@ -28,11 +28,11 @@ npm i
 npm run dev
 
 ### Project Documentation
-Task Creation: Users can add tasks via the input field \n
-Auto-Deletion: Tasks automatically delete after exactly 1 hour\n
-Evasive Checkboxes: Checkboxes relocate when users attempt to click them,  
-Visual Countdown: Real-time timers show remaining time for each task
-Destruction Warnings: Red alerts appear when tasks are about to expire
+-Task Creation: Users can add tasks via the input field
+-Auto-Deletion: Tasks automatically delete after exactly 1 hour
+-Evasive Checkboxes: Checkboxes relocate when users attempt to click them,  
+-Visual Countdown: Real-time timers show remaining time for each task
+-Destruction Warnings: Red alerts appear when tasks are about to expire
 
 # Screenshots (Add at least 3)
 <img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 25 21 AM" src="https://github.com/user-attachments/assets/1abec27f-5b04-4ba1-92b2-615c3c8e9b58" />
