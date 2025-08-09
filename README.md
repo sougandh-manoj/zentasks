@@ -42,7 +42,7 @@ npm run dev
 *this is how the tasks will look after adding them*
 
 <img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 20 AM" src="https://github.com/user-attachments/assets/3b834538-12df-46d1-8070-b419e8474786" />
-*while trying to check a task that's done, the task moves around never lettting the user finish it*
+*while trying to check a task that's done, the task moves around never letting the user finish it*
 
 <img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 43 AM" src="https://github.com/user-attachments/assets/08561f33-0ee6-4b47-81a4-5374e042f353" />
 *when the timer reaches the last 5 min an allert banner occurs below the task*
