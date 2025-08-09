@@ -1,22 +1,22 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [ZenTask] 🎯
+# ZenTask 🎯
 
 ### Project Description
-[2-3 lines about what your project does]
+Built for the Useless Projects hackathon, this is productivity software that's given up on productivity. It combines professional-grade design with deliberately chaotic functionality, creating an experience that's simultaneously frustrating and delightfully entertaining. It's technically impressive, visually stunning, and completely useless—exactly perfect for this hackathon.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People Were Actually Completing Their Tasks
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+So i created Checkboxes that flee on sight, ensuring zero completion rates
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- HTML, CSS, TypeScript
+- Frameworks used
 - [Libraries used]
 - [Tools used]
 
