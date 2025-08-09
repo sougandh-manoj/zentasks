@@ -4,7 +4,8 @@
 # ZenTask 🎯
 
 ### Project Description
-Built for the Useless Projects hackathon, this is productivity software that's given up on productivity. It combines professional-grade design with deliberately chaotic functionality, creating an experience that's simultaneously frustrating and delightfully entertaining. It's technically impressive, visually stunning, and completely useless—exactly perfect for this hackathon.
+Built for the Useless Projects, this is productivity website that's given up on productivity. It combines professional-grade design with deliberately chaotic functionality, creating an experience that's simultaneously frustrating and delightfully entertaining. It's technically impressive, visually stunning, and completely useless—exactly perfect for this hackathon.
+
 
 ### The Problem (that doesn't exist)
 People Were Actually Completing Their Tasks
@@ -16,28 +17,23 @@ So i created Checkboxes that flee on sight, ensuring zero completion rates
 ### Technologies/Components Used
 For Software:
 - HTML, CSS, TypeScript
-- Frameworks used
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- React,vite
+- Tailwind CSS, tailwindcss-animate
+- TypeScript ESLint
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm i
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
-For Software:
+For Software:   A beautifully crafted productivity app that's professionally designed to make you completely unproductive. Watch checkboxes run away from your cursor and tasks                  self-destruct after one hour. It's like productivity, but in reverse—and somehow more satisfying.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
