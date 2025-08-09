@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# ZenTask 🎯
+# ZenTasks 🎯
 
 ### Project Description
 Built for the Useless Projects, this is productivity website that's given up on productivity. It combines professional-grade design with deliberately chaotic functionality, creating an experience that's simultaneously frustrating and delightfully entertaining. It's technically impressive, visually stunning, and completely useless—exactly perfect for this hackathon.
@@ -35,7 +35,7 @@ For Software:   A beautifully crafted productivity app that's professionally des
 *this is the home screen where we can use the bar to add tasks, and a small refernece of what happens to the tasks added there*
 
 <img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 01 AM" src="https://github.com/user-attachments/assets/ec4fa737-bd1b-40e8-a263-bc756fed145c" />
-**this is how the tasks will look after adding them**
+*this is how the tasks will look after adding them*
 
 <img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 20 AM" src="https://github.com/user-attachments/assets/3b834538-12df-46d1-8070-b419e8474786" />
 *while trying to check a task that's done, the task moves around never lettting the user finish it*
