@@ -36,7 +36,7 @@ npm run dev
 
 # Screenshots (Add at least 3)
 <img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 25 21 AM" src="https://github.com/user-attachments/assets/1abec27f-5b04-4ba1-92b2-615c3c8e9b58" />
-*this is the home screen where we can use the bar to add tasks, and a small refernece of what happens to the tasks added there*
+*this is the home screen where we can use the bar to add tasks, and a small refernece of what happens to the tasks added here*
 
 <img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 01 AM" src="https://github.com/user-attachments/assets/ec4fa737-bd1b-40e8-a263-bc756fed145c" />
 *this is how the tasks will look after adding them*
