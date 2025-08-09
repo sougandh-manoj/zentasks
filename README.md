@@ -1,4 +1,4 @@
-<img width="1440" height="900" alt="Screenshot 2025-08-09 at 6 26 43 AM" src="https://github.com/user-attachments/assets/e4a0f0d8-bdc4-4f87-a9c7-b5abd9a3cca7" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # ZenTask 🎯
